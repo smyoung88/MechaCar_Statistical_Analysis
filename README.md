@@ -24,7 +24,7 @@ The summary table from the linear regression is below:
   <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv2_Stats_1.png"><br>
   <b>Lot Summary of Suspension Coil's PSI</b><br>
   <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv2_Stats_2.png">
-  </p><br>
+  </p>
   
 - By looking at both summary charts, it can be seen that Lot 1 and Lot 2 have very similar statistics to the overall combined dataset. Both means and medians are right at 1500.
 
