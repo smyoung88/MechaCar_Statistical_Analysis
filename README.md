@@ -19,6 +19,17 @@ The summary table from the linear regression is below:
 
 ## Summary Statistics on Suspension Coils
 
+<p align="left">
+  <b>Total Summary of Suspension Coil's PSI</b>
+  <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv2_Stats_1.png">
+  <b>Lot Summary of Suspension Coil's PSI</b>
+  <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv2_Stats_2.png">
+  </p><br>
+- By looking at both summary charts, it can be seen that Lot 1 and Lot 2 have very similar statistics to the overall combined dataset. Both means and medians are right at 1500. 
+- Lot 3 seems to have slightly different statistics as both the mean and medians are less than 1500 and there is a large variance of 170.
+- The datasets that meet the design specification of the variance of the suspension coils not exceeding 100 pounds per square inch are the combined manufacturing lots data, Lot1, and in Lot2 with variances of 62, 1, and 7 respectively. Lot3, however, does not meet the design specification with a variance of 170.
+
+
 ## T-Tests on Suspension Coils
 
 ## MechaCar vs Competition
