@@ -4,7 +4,7 @@
 
 The summary table from the linear regression is below:
 <p align="center">
-  <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/tree/main/Resources/Deliv1_Stats.png">
+  <img src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv1_Stats.png">
   </p><br>
   
 <b>Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
