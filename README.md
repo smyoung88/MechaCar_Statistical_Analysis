@@ -39,11 +39,11 @@ Below are screenshots of each t-test for all manufacturing lots, lot 1, lot 2, a
 
 <p align="left">
   <b>T-Test Results of All Manufacturing Lots against the Mean PSI of the Population</b><br>
-  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_all.png"><br>
+  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_all.png"><br><br>
   <b>T-Test Results of Lot 1 against the Mean PSI of the Population</b><br>
-  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot1.png"><br>
+  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot1.png"><br><br>
   <b>T-Test Results of Lot 2 against the Mean PSI of the Population</b><br>
-  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot2.png"><br>
+  <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot2.png"><br><br>
   <b>T-Test Results of Lot 3 against the Mean PSI of the Population</b><br>
   <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot3.png">
   </p>
