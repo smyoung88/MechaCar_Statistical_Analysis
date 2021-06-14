@@ -35,6 +35,8 @@ The summary table from the linear regression is below:
 
 ## T-Tests on Suspension Coils
 
+Below are screenshots of each t-test for all manufacturing lots, lot 1, lot 2, and lot 3 compared against the mean psi of the population (1500):
+
 <p align="left">
   <b>T-Test Results of All Manufacturing Lots against the Mean PSI of the Population</b><br>
   <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_all.png"><br>
@@ -45,5 +47,7 @@ The summary table from the linear regression is below:
   <b>T-Test Results of Lot 3 against the Mean PSI of the Population</b><br>
   <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv3_Stats_lot3.png">
   </p>
+
+As seen from the above t-tests, Lot 3 is the only dataset that has sufficient evidence to reject our null hypothesis, which means that lot 3's mean PSI is statistically different from the population mean. The combined 'All Manufacturing Lots', Lot 1, and Lot 2 do not have sufficient evidence to reject our null hypothesis which means they accept the null indicating that their means are not statistically different than the mean of the population dataset.
 
 ## MechaCar vs Competition
