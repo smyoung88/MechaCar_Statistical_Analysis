@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 The summary table from the linear regression is below:
-<p align="center">
+<p align="left">
   <img height="50%" width="50%" src="https://github.com/smyoung88/MechaCar_Statistical_Analysis/blob/main/Resources/Deliv1_Stats.png">
   </p><br>
   
