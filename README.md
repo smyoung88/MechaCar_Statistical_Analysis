@@ -52,4 +52,33 @@ As seen from the above t-tests, Lot 3 is the only dataset that has sufficient ev
 
 ## Study Design: MechaCar vs Competition
 
-In our final analysis, we are going to compare the performance of the MechaCar to its competitors. To do so, we are going to see how they compare when it comes to cost, city and highway fuel efficiency, horse power, maintenance cost, and safety rating.
+In our final analysis, we are going to compare the performance of the MechaCar to its competitors. To do so, the following metrics will be tested will be tested in the statistical study:
+
+<b> Metrics Tested</b>
+1. Cost
+2. City and Highway Fuel Efficiency
+3. Horse Power
+4. Maintenance Cost
+5. Safety Rating
+
+<b>Null Hypothesis for Each Metric</b>
+1. The cost of the MechaCar is the same as its competitors.
+2. The city and highway fuel efficiency is the same as its competitors.
+3. The horse power is comparable (the same) as its competitors.
+4. Maintenance cost is equivalent to its competitors.
+5. The safety rating is the same as its competitors.
+
+<b>Statistical Test Used to Test Hypothesis of Each Metric</b>
+1. Two-sample T-test
+2. Two-sample T-test
+3. Two-sample T-test
+4. Two-sample T-test
+5. Two-sample T-test
+
+<b> Data for the Statistical Test for Each Metric</b>
+1. A dataset that has a normal distribution of the total cost for a MechaCar and a dataset with a normal distribution of the cost of its competitors
+2. A dataset that has a normal distribution of both city and highway fuel efficiencies for a MechaCar and a dataset with both city and highway fuel efficiencie of its competitors
+3. A dataset that has a normal distribution of the horse power for a MechaCar and a dataset with a normal distribution of the horse power of its competitors
+4. A dataset that has a normal distribution of the total maintenance costs for a MechaCar along with a dataset with a normal distribution of the total maintenance costs of its competitors
+5. A dataset that has a normal distribution of the total safety rating for a MechaCar and a dataset with a normal distribution of the safety ratings of its competitors
+
