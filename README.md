@@ -50,4 +50,6 @@ Below are screenshots of each t-test for all manufacturing lots, lot 1, lot 2, a
 
 As seen from the above t-tests, Lot 3 is the only dataset that has sufficient evidence to reject our null hypothesis, which means that lot 3's mean PSI is statistically different from the population mean. The combined 'All Manufacturing Lots', Lot 1, and Lot 2 do not have sufficient evidence to reject our null hypothesis which means they accept the null indicating that their means are not statistically different than the mean of the population dataset.
 
-## MechaCar vs Competition
+## Study Design: MechaCar vs Competition
+
+In our final analysis, we are going to compare the performance of the MechaCar to its competitors. To do so, we are going to see how they compare when it comes to cost, city and highway fuel efficiency, horse power, maintenance cost, and safety rating.
