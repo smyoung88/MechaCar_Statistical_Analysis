@@ -82,3 +82,5 @@ In our final analysis, we are going to compare the performance of the MechaCar t
 4. A dataset that has a normal distribution of the total maintenance costs for a MechaCar along with a dataset with a normal distribution of the total maintenance costs of its competitors
 5. A dataset that has a normal distribution of the total safety rating for a MechaCar and a dataset with a normal distribution of the safety ratings of its competitors
 
+For this statistical study, a significance level of .05 will be used to compare p-values against. Any metrics that are less than .05 will reject the null hypothesis in which that specific metric is said to be equal to the competitors and will mean that the mean value for that metric is statistically different than the mean of its competitor.
+
