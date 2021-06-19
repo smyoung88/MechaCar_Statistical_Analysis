@@ -69,11 +69,8 @@ In our final analysis, we are going to compare the performance of the MechaCar t
 5. The safety rating is the same as its competitors.
 
 <b>Statistical Test Used to Test Hypothesis of Each Metric</b>
-1. Two-sample T-test
-2. Two-sample T-test
-3. Two-sample T-test
-4. Two-sample T-test
-5. Two-sample T-test
+
+For each of the above metrics, the two-sample t-test will be used to test their respective hypothesis. This test was chosen mainly because upper management was interested in seeing which categories the MechaCar is statistically different from its competitors. Also, t-tests are flexible tests that compare two samples, each from a different population and they will compare measurements on the same subjects across a single period.
 
 <b> Data for the Statistical Test for Each Metric</b>
 1. A dataset that has a normal distribution of the total cost for a MechaCar and a dataset with a normal distribution of the cost of its competitors
