@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 Auto company AutosRUs's newest prototype, the MehcaCar, is suffering from production troubles that are blocking the manufacturing team's progress. In this project, production data is reviewed to provide insights that may help the manufacturing team which includes:
 
-- Multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+- Multiple linear regression analyses to identify which variables in the dataset predict the mpg of MechaCar prototypes
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
