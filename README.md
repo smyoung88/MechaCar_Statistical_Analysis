@@ -60,7 +60,7 @@ As seen from the above t-tests, Lot 3 is the only dataset that has sufficient ev
 
 ## Study Design: MechaCar vs Competition
 
-In our final analysis, we are going to compare the performance of the MechaCar to its competitors. To do so, the following metrics will be tested will be tested in the statistical study:
+In our final analysis, we are going to compare the performance of the MechaCar to its competitors. To do so, the following metrics will be tested in the statistical study:
 
 <b> Metrics Tested</b>
 1. Cost
